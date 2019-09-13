@@ -1,5 +1,5 @@
 # Libft
-  A complete C library
+  A complete C library for manipulating strings, lists, memory...
 
 ## Built with
   C language
